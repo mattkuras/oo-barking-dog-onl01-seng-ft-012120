@@ -1,4 +1,4 @@
 class Dog 
 end
-def name=(variable)
+def name=(dogs_name)
   
