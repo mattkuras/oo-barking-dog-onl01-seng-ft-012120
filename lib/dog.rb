@@ -1,3 +1,4 @@
 class Dog 
 end
-def 
+def name=(variable)
+  
