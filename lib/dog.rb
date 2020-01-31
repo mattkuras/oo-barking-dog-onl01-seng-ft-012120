@@ -5,7 +5,7 @@ def name=(dogs_name)
   end
 
 def name 
-  fido
+  this_dog 
 end
 
 def bark 
